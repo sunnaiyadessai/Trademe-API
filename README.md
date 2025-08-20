@@ -2,15 +2,15 @@ How to Integrate with Trademe API
 
 🚀 Project Overview
 
-This Python script fetches closing soon listings from the [Trade Me Sandbox API](https://developer.trademe.co.nz/api-overview) using OAuth1 authentication. It can be extended to any other categories like Property, Motor, Jobs, and Services etc. 🔥
+This project contains 2 Python scrips:
+1.  Fetches closing soon listings from the [Trade Me Sandbox API](https://developer.trademe.co.nz/api-overview) using OAuth1 authentication. It can be extended to any other categories like Property, Motor, Jobs, and Services etc. 🔥
+2.  Creates a general listing under your TradeMe account.
 
 🚀 Features
 
 🌟 Authenticates using OAuth1
 
-🌟 Queries the `/listings/closing.json` endpoint
-
-🌟 Filters listings by region (Auckland)
+🌟 Handles API errors gracefully
 
 🌟 Scalable Integration: Can be extended to fetch data for Motor, Jobs, and other categories.
 
