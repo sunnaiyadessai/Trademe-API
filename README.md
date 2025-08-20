@@ -2,7 +2,7 @@ How to Integrate with Trademe API
 
 🚀 Project Overview
 
-This Python script fetches property listings from the [Trade Me Sandbox API](https://developer.trademe.co.nz/api-overview) using OAuth1 authentication. It targets the Auckland region and displays closing listings with their title, price, and region. Currently, only the Property category is implemented, but it can be extended to other categories like Motor, Jobs, and Services. 🔥
+This Python script fetches closing soon listings from the [Trade Me Sandbox API](https://developer.trademe.co.nz/api-overview) using OAuth1 authentication. It can be extended to any other categories like Property, Motor, Jobs, and Services etc. 🔥
 
 🚀 Features
 
